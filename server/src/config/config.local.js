@@ -9,8 +9,9 @@ module.exports = {
     credentials: require('../service/login/tcb_custom_login_key(mianshiya-test-xxx).json'),
   },
   redisConfig: {
-    host: 'xxx.com',
+    host: 'redis',
     port: '6379',
-    password: 'xxx',
+    // 本地 Docker Redis 没有密码
+    // password: 'xxx',
   },
 };

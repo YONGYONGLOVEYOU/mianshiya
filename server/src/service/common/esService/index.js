@@ -1,15 +1,15 @@
 const { Client } = require('@elastic/elasticsearch');
-const esConfig = require('./esConfig.json');
+// const esConfig = require('./esConfig.json');
 
 const client = new Client({
   // 本地调试用公网地址 + IP 白名单配置
   // node: 'https://xxx:9200',
   // 实际发布用内网地址
-  node: 'http://xxx:9200',
-  auth: {
-    username: esConfig.username,
-    password: esConfig.password,
-  },
+  node: 'http://elasticsearch:9200',
+  // auth: {
+  //   username: esConfig.username,
+  //   password: esConfig.password,
+  // },
 });
 
 /**
