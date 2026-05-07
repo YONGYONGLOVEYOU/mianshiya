@@ -10,7 +10,6 @@ const IS_PROD = process.env.NODE_ENV !== 'development';
 export default defineConfig({
   hash: true,
   antd: {},
-  port: 85,
   publicPath: IS_PROD ? "https://cdn.xxx.com/" : '/',
   dva: {
     hmr: true,
