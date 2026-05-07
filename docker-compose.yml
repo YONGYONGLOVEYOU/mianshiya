@@ -60,7 +60,7 @@ services:
     container_name: mianshiya-frontend
     restart: unless-stopped
     ports:
-      - "80:80"
+      - "85:85"
     depends_on:
       - backend
     networks:
