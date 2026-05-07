@@ -9,7 +9,7 @@ import { message } from 'antd';
 // 根据环境设定请求后端 url 地址
 axios.defaults.baseURL =
   process.env.NODE_ENV === 'production'
-    ? 'https://fly.mianshiya.com/api'
+    ? '/api'
     : 'http://local.mianshiya.com:7592/api';
 
 axios.defaults.withCredentials = true;
