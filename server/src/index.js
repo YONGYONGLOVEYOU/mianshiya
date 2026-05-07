@@ -1,3 +1,14 @@
+// Polyfill for ReadableStream compatibility (fix undici error)
+if (typeof ReadableStream === 'undefined') {
+  try {
+    const { ReadableStream: NodeReadableStream } = require('stream/web');
+    global.ReadableStream = NodeReadableStream;
+  } catch (e) {
+    // For older Node.js versions, create a simple fallback
+    global.ReadableStream = function() {};
+  }
+}
+
 const { CloudBaseRunServer } = require('./server');
 
 // 创建云托管 Server 实例

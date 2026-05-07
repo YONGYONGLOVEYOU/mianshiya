@@ -1,0 +1,100 @@
+2026-05-07T15:22:28: PM2 log: App [npm start:0] exited with code [1] via signal [SIGINT]
+2026-05-07T15:22:28: PM2 log: App [npm start:0] starting in -fork mode-
+2026-05-07T15:22:28: PM2 log: App [npm start:0] online
+> mianshiya-server@0.0.1 start
+> cross-env NODE_ENV=production node src/index.js
+/usr/src/app/node_modules/undici/lib/web/webidl/index.js:534
+webidl.is.ReadableStream = webidl.util.MakeTypeAssertion(ReadableStream)
+                                                         ^
+ReferenceError: ReadableStream is not defined
+    at Object.<anonymous> (/usr/src/app/node_modules/undici/lib/web/webidl/index.js:534:58)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/usr/src/app/node_modules/undici/lib/web/fetch/util.js:12:20)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+2026-05-07T15:22:30: PM2 log: App [npm start:0] exited with code [1] via signal [SIGINT]
+2026-05-07T15:22:30: PM2 log: App [npm start:0] starting in -fork mode-
+2026-05-07T15:22:30: PM2 log: App [npm start:0] online
+> mianshiya-server@0.0.1 start
+> cross-env NODE_ENV=production node src/index.js
+/usr/src/app/node_modules/undici/lib/web/webidl/index.js:534
+webidl.is.ReadableStream = webidl.util.MakeTypeAssertion(ReadableStream)
+                                                         ^
+ReferenceError: ReadableStream is not defined
+    at Object.<anonymous> (/usr/src/app/node_modules/undici/lib/web/webidl/index.js:534:58)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/usr/src/app/node_modules/undici/lib/web/fetch/util.js:12:20)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+2026-05-07T15:22:31: PM2 log: App [npm start:0] exited with code [1] via signal [SIGINT]
+2026-05-07T15:22:31: PM2 log: App [npm start:0] starting in -fork mode-
+2026-05-07T15:22:31: PM2 log: App [npm start:0] online
+> mianshiya-server@0.0.1 start
+> cross-env NODE_ENV=production node src/index.js
+/usr/src/app/node_modules/undici/lib/web/webidl/index.js:534
+webidl.is.ReadableStream = webidl.util.MakeTypeAssertion(ReadableStream)
+                                                         ^
+ReferenceError: ReadableStream is not defined
+    at Object.<anonymous> (/usr/src/app/node_modules/undici/lib/web/webidl/index.js:534:58)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/usr/src/app/node_modules/undici/lib/web/fetch/util.js:12:20)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+2026-05-07T15:22:33: PM2 log: App [npm start:0] exited with code [1] via signal [SIGINT]
+2026-05-07T15:22:33: PM2 log: App [npm start:0] starting in -fork mode-
+2026-05-07T15:22:33: PM2 log: App [npm start:0] online
+> mianshiya-server@0.0.1 start
+> cross-env NODE_ENV=production node src/index.js
+/usr/src/app/node_modules/undici/lib/web/webidl/index.js:534
+webidl.is.ReadableStream = webidl.util.MakeTypeAssertion(ReadableStream)
+                                                         ^
+ReferenceError: ReadableStream is not defined
+    at Object.<anonymous> (/usr/src/app/node_modules/undici/lib/web/webidl/index.js:534:58)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/usr/src/app/node_modules/undici/lib/web/fetch/util.js:12:20)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+2026-05-07T15:22:35: PM2 log: App [npm start:0] exited with code [1] via signal [SIGINT]
+2026-05-07T15:22:35: PM2 log: App [npm start:0] starting in -fork mode-
+2026-05-07T15:22:35: PM2 log: App [npm start:0] online
+> mianshiya-server@0.0.1 start
+> cross-env NODE_ENV=production node src/index.js
+/usr/src/app/node_modules/undici/lib/web/webidl/index.js:534
+webidl.is.ReadableStream = webidl.util.MakeTypeAssertion(ReadableStream)
+                                                         ^
+ReferenceError: ReadableStream is not defined
+    at Object.<anonymous> (/usr/src/app/node_modules/undici/lib/web/webidl/index.js:534:58)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/usr/src/app/node_modules/undici/lib/web/fetch/util.js:12:20)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+2026-05-07T15:22:37: PM2 log: App [npm start:0] exited with code [1] via signal [SIGINT]
+2026-05-07T15:22:37: PM2 log: App [npm start:0] starting in -fork mode-
+2026-05-07T15:22:37: PM2 log: App [npm start:0] online
+> mianshiya-server@0.0.1 start
+> cross-env NODE_ENV=production node src/index.js
